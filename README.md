@@ -6,7 +6,7 @@ This bot helps users mass report accounts with clickbait or objectionable materi
 ```
 Installation steps:
 
-git clone https://github.com/thehackersbrain/Instagram-reporter
+git clone https://github.com/thehackersbrain/Instagram-mass-reporter
 pip3 install pyautogui webbot
 ```
 
